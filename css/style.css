@@ -1,0 +1,10 @@
+.bg-body-tertiary{
+    /*!important代表所有指令中最高級，優先遵照他，要檢查像bootstrap「預設」css有沒有寫到相同的內容，如果有，若要以這邊的「客製化」css為優先樣式，就要加入!important*/
+    background-color: #30433E !important;
+.nav-link{
+    color: #ffffff !important;}
+.nav-link active{
+    color: #ffffff !important}
+.nav-brand{
+    color: #ffffff !important}
+}
